@@ -1,0 +1,59 @@
+.header-top {
+  background-color: #0a4fb4;
+}
+
+.site-branding h1.site-title a {
+  color: #9ccc14;
+}
+
+.site-description {
+  color: #052F6C;
+}
+
+strong {
+  color: #052F6C;
+}
+
+.post-meta-info .entry-meta time {
+  color: #052F6C;
+}
+
+.entry-time.updated {
+  color: #052F6C;
+}
+
+h1 a {
+  color: #052F6C;
+}
+
+.nav>li>a {
+  color: #052F6C;
+}
+
+li {
+  color: #052f6c;
+}
+
+a {
+  color: #052F6C;
+}
+
+.site-footer-inner.col-sm-12.clearfix {
+  background-color: #1d0030;
+}
+
+#footer-info {
+  background-color: #1d0030;
+}
+
+#colophon.site-footer {
+  background-color: #1d0030;
+}
+
+.pagenav {
+  color: #ffff;
+}
+
+#colophon .nav > li > a:hover {
+  color: #fffff;
+}

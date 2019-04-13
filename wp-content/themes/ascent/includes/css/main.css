@@ -17,16 +17,16 @@ body {
     word-wrap: break-word;
 }
 ::selection {
-    background: #1ABC9C;
+    background: #9ccc14;
     color: #FFF;
 }
 ::-moz-selection {
-    background: #1ABC9C;
+    background: #9ccc14;
     color: #FFF;
 }
 a {
     outline: 0;
-    color: #1ABC9C;
+    color: #9ccc14;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
@@ -46,7 +46,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     color: #3A3C41;
 }
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
-    color: #1ABC9C;
+    color: #9ccc14;
     text-decoration: none;
 }
 .nt-mobile {
@@ -70,7 +70,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     font-size: 14px;
     font-weight: normal;
     text-transform: uppercase;
-    background-color: #1ABC9C;
+    background-color: #9ccc14;
     border: none;
     padding: 10px 30px;
     color: #FFF;
@@ -111,7 +111,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     background-color: #3a3c41;
 }
 .read-more.black:hover {
-    background-color: #1ABC9C;
+    background-color: #9ccc14;
 }
 .read-more.red {
     background-color: #EA3200;
@@ -179,7 +179,7 @@ img[class*="wp-image-"] {
 .wp-caption {
     margin-bottom: 10px;
     max-width: 100%;
-    border: 1px solid #1ABC9C;
+    border: 1px solid #9ccc14;
     border-radius: 4px;
     -mo-zborder-radius: 4px;
     -webkit-border-radius: 4px;
@@ -210,7 +210,7 @@ img[class*="wp-image-"] {
     margin: 0;
 }
 .gallery .gallery-item img {
-    border: 2px solid #1ABC9C!important;
+    border: 2px solid #9ccc14!important;
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
@@ -362,7 +362,7 @@ a, a:link {}
 }
 .site-branding h1.site-title a {
     font-weight: bold;
-    color: #1ABC9C;
+    color: #9ccc14;
 }
 .site-branding h1.site-title a:hover {
     color: #3A3C41;
@@ -374,7 +374,7 @@ a, a:link {}
 .header-top {
     background: #3A3C41;
     min-height: 35px;
-    border-top: 4px solid #1ABC9C;
+    border-top: 4px solid #9ccc14;
     color: #FFF;
     font-size: 13px;
     padding: 8px 0;
@@ -383,7 +383,7 @@ a, a:link {}
     color: #FFF;
 }
 .header-top a:hover {
-    color: #1ABC9C;
+    color: #9ccc14;
 }
 .mail-info .phone-info {
     padding-right: 10px;
@@ -544,7 +544,7 @@ nav.main-menu ul > li ul {
     left: 0;
     width: 190px;
     display: none;
-    border-top: 2px solid #1ABC9C;
+    border-top: 2px solid #9ccc14;
     background-color: #262932;
 }
 nav.main-menu ul > li ul li {
@@ -564,18 +564,18 @@ nav.main-menu ul > li ul li ul {
     top: 0;
 }
 nav.main-menu ul .current_page_item > a {
-    background: #1ABC9C;
+    background: #9ccc14;
     color: #FFF;
 }
 nav.main-menu ul > li:hover > a, nav.main-menu ul > .current-menu-item > a {
-    background-color: #1ABC9C;
+    background-color: #9ccc14;
     color: #FFF;
 }
 .mean-container .mean-bar {
   padding: 0;
 }
 .mean-container a.meanmenu-reveal {
-    background: #1ABC9C;
+    background: #9ccc14;
     left: auto!important;
     height: auto;
     right: 0!important;
@@ -585,8 +585,8 @@ nav.main-menu ul > li:hover > a, nav.main-menu ul > .current-menu-item > a {
     display: block;
 }
 .pager li > a:hover, .pager li > a:focus {
-    background-color: #1ABC9C;
-    border-color: #1ABC9C;
+    background-color: #9ccc14;
+    border-color: #9ccc14;
     color: #FFF;
 }
 .nav > li > a:hover, .nav > li > a:focus {
@@ -660,7 +660,7 @@ body.page .page-header h1.entry-title {
 }
 #home-slider .owl-dots .owl-dot.active span,
 #home-slider .owl-dots .owl-dot:hover span {
-  background: #1ABC9C;
+  background: #9ccc14;
   outline: none;
 }
 #home-slider .owl-dots .owl-dot:active,
@@ -715,7 +715,7 @@ body.page .page-header h1.entry-title {
 }
 #home-slider .slide-content .btn {
     padding: 10px 30px;
-    background-color: #1ABC9C;
+    background-color: #9ccc14;
     text-transform: uppercase;
     font-size: 14px;
 }
@@ -749,7 +749,7 @@ table th, table td {
     padding: 7px 15px;
 }
 table thead {
-    background-color: #1ABC9C;
+    background-color: #9ccc14;
     border: 0;
     font-weight: 700;
     color: #3a3c41;
@@ -832,7 +832,7 @@ ul.wp-block-gallery {
 
 #colophon {
     background: #3A3C41;
-    border-top: 15px solid #1ABC9C;
+    border-top: 15px solid #9ccc14;
     color: #FFF;
 }
 #colophon a {
@@ -870,7 +870,7 @@ ul.wp-block-gallery {
     background: transparent;
 }
 #colophon .widget_calendar table a:hover {
-    color: #1ABC9C;
+    color: #9ccc14;
 }
 #colophon .widget .widget-title {
     font-size: 20px;
@@ -907,7 +907,7 @@ a#scroll-top {
     width: 42px;
     z-index: 9999;
     line-height: 3em;
-    background: #1ABC9C url("https:////patelgirish.github.io/Test/wp-content/themes/ascent/includes/images/scroll-top.png") center center no-repeat;
+    background: #9ccc14 url("https:////patelgirish.github.io/Test/wp-content/themes/ascent/includes/images/scroll-top.png") center center no-repeat;
     -webkit-transition: all 0.25s ease-in-out;
     -moz-transition: all 0.25s ease-in-out;
     -o-transition: all 0.25s ease-in-out;
@@ -947,7 +947,7 @@ article.post .entry-content {
 .entry-content blockquote {
     background: #E7F6F3;
     padding: 20px 20px 20px 30px;
-    border-left: 5px solid #1ABC9C;
+    border-left: 5px solid #9ccc14;
     font-family: 'PT Sans', serif;
     font-style: italic;
     font-size: 16px;
@@ -962,7 +962,7 @@ article.post .entry-content {
 }
 .post-meta-info .entry-meta {
     margin-right: 20px;
-    border-top: 2px solid #1ABC9C;
+    border-top: 2px solid #9ccc14;
     background-color: #E7F6F3;
 }
 .post-meta-info .entry-meta time {
@@ -984,7 +984,7 @@ article.post .entry-content {
     display: block;
     padding: 14px 0 18px;
     text-align: center;
-    background-color: #1ABC9C;
+    background-color: #9ccc14;
 }
 .post-meta-info .entry-meta .comments_count a {
     display: inline-block;
@@ -1049,8 +1049,8 @@ article .footer-meta {
     font-size: 13px;
 }
 .comment a.btn {
-    background: #1ABC9C;
-    border-color: #1ABC9C;
+    background: #9ccc14;
+    border-color: #9ccc14;
 }
 .comment a.btn:hover {
     background: #3A3C41;
@@ -1065,7 +1065,7 @@ article .footer-meta {
 }
 .error-404 {
     margin-bottom: 40px;
-    background: #1ABC9C;
+    background: #9ccc14;
     color: #FFF;
 }
 .error-404 a {
@@ -1109,7 +1109,7 @@ body input[type="text"]:focus, body input[type="email"]:focus, body input[type="
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    border: 2px solid #1ABC9C;
+    border: 2px solid #9ccc14;
     box-shadow: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
@@ -1148,7 +1148,7 @@ select:focus {
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    border: 2px solid #1ABC9C;
+    border: 2px solid #9ccc14;
     box-shadow: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
@@ -1174,7 +1174,7 @@ body input[type="submit"] {
     -moz-box-shadow: none;
 }
 body input[type="submit"]:hover, body input[type="submit"]:focus {
-    background-color: #1ABC9C;
+    background-color: #9ccc14;
     color: #FFF;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -1317,10 +1317,10 @@ label {
     .mean-container .mean-bar {
         margin-top: 0px;
         min-height: inherit;
-        background-color: #1ABC9C;
+        background-color: #9ccc14;
     }
     .mean-container .mean-bar .meanmenu-reveal {
-        background: #1ABC9C;
+        background: #9ccc14;
     }
     .mean-container .mean-bar .mean-nav ul li a {
         border-color: rgba(255, 255, 255, 0.1);
@@ -1332,7 +1332,7 @@ label {
         background-color: #17A88B;
     }
     .mean-container .mean-bar .mean-nav ul li a.meanmenu-reveal {
-        background-color: #1ABC9C;
+        background-color: #9ccc14;
         padding: 13px 14px;
         top: -40px;
     }
