@@ -7,12 +7,6 @@ RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /Test/index.php [L]
-
-php_value post_max_size 256M
-php_value memory_limit 512M
-php_value max_input_time 180
-php_value max_execution_time 180
-
 </IfModule>
 
 # END WordPress
