@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Wisepost</title>
-	<atom:link href="https:////patelgirish.github.io/Test/feed/" rel="self" type="application/rss+xml" />
-	<link>https:////patelgirish.github.io/Test</link>
+	<atom:link href="" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>
 	Thu, 11 Apr 2019 18:44:06 +0000	</lastBuildDate>
@@ -22,18 +22,18 @@
 	<generator>https://wordpress.org/?v=5.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https:////patelgirish.github.io/Test/2019/04/11/hello-world/</link>
-				<comments>https:////patelgirish.github.io/Test/2019/04/11/hello-world/#comments</comments>
+		<link></link>
+				<comments></comments>
 				<pubDate>Thu, 11 Apr 2019 18:44:06 +0000</pubDate>
 		<dc:creator><![CDATA[patelg]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https:////patelgirish.github.io/Test/?p=1</guid>
+		<guid isPermaLink="false"></guid>
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https:////patelgirish.github.io/Test/2019/04/11/hello-world/feed/</wfw:commentRss>
+							<wfw:commentRss></wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 	</channel>

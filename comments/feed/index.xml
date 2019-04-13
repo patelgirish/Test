@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Wisepost	</title>
-	<atom:link href="https:////patelgirish.github.io/Test/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https:////patelgirish.github.io/Test</link>
+	<atom:link href="" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>
 	Thu, 11 Apr 2019 18:44:06 +0000	</lastBuildDate>
@@ -21,10 +21,10 @@
 			<item>
 				<title>
 				Comment on Hello world! by A WordPress Commenter				</title>
-				<link>https:////patelgirish.github.io/Test/2019/04/11/hello-world/#comment-1</link>
+				<link></link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 11 Apr 2019 18:44:06 +0000</pubDate>
-		<guid isPermaLink="false">https:////patelgirish.github.io/Test/?p=1#comment-1</guid>
+		<guid isPermaLink="false"></guid>
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
