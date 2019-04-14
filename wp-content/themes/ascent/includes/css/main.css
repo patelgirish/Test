@@ -5,11 +5,11 @@
 
 /* Import the necessary Bootstrap WP CSS additions */
 
-@import url(localhost/testp/wp-content/themes/ascent/includes/css/bootstrap-wp.css);
+@import url(https://patelgirish.github.io/test/wp-content/themes/ascent/includes/css/bootstrap-wp.css);
 
 /* Import the font-awesome css */
 
-@import url(localhost/test/wp-content/themes/ascent/includes/font-awesome/css/font-awesome.css);
+@import url(https://patelgirish.github.io/test/wp-content/themes/ascent/includes/font-awesome/css/font-awesome.css);
 
 /* This is a small security for too long strings titles */
 
