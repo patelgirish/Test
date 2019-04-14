@@ -5,11 +5,11 @@
 
 /* Import the necessary Bootstrap WP CSS additions */
 
-@import url(/Test/wp-content/themes/ascent/includes/css/bootstrap-wp.css);
+@import url(https://patelgirish.github.io/Test/wp-content/themes/ascent/includes/css/bootstrap-wp.css);
 
 /* Import the font-awesome css */
 
-@import url(/Test/wp-content/themes/ascent/includes/font-awesome/css/font-awesome.css);
+@import url(https://patelgirish.github.io/Test/wp-content/themes/ascent/includes/font-awesome/css/font-awesome.css);
 
 /* This is a small security for too long strings titles */
 
@@ -907,7 +907,7 @@ a#scroll-top {
     width: 42px;
     z-index: 9999;
     line-height: 3em;
-    background: #9ccc14 url("localhost/test/wp-content/themes/ascent/includes/images/scroll-top.png") center center no-repeat;
+    background: #9ccc14 url("") center center no-repeat;
     -webkit-transition: all 0.25s ease-in-out;
     -moz-transition: all 0.25s ease-in-out;
     -o-transition: all 0.25s ease-in-out;
