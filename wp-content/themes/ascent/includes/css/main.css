@@ -907,7 +907,7 @@ a#scroll-top {
     width: 42px;
     z-index: 9999;
     line-height: 3em;
-    background: #9ccc14 url("https://patelgirish.github.io/test/wp-content/themes/ascent/includes/images/scroll-top.png") center center no-repeat;
+    background: #9ccc14 url(https://patelgirish.github.io/test/wp-content/themes/ascent/includes/images/scroll-top.png) center center no-repeat;
     -webkit-transition: all 0.25s ease-in-out;
     -moz-transition: all 0.25s ease-in-out;
     -o-transition: all 0.25s ease-in-out;
