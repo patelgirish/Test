@@ -908,7 +908,7 @@ a#scroll-top {
     width: 42px;
     z-index: 9999;
     line-height: 3em;
-    background: #9ccc14 url(https://patelgirish.github.io/test/wp-content/themes/ascent/includes/images/scroll-top.png) center center no-repeat;
+    background: #9ccc14 url(https://github.com/patelgirish/Test/blob/gh-pages/wp-content/themes/ascent/includes/images/scroll-top.png) center center no-repeat;
     -webkit-transition: all 0.25s ease-in-out;
     -moz-transition: all 0.25s ease-in-out;
     -o-transition: all 0.25s ease-in-out;
@@ -990,7 +990,7 @@ article.post .entry-content {
 .post-meta-info .entry-meta .comments_count a {
     display: inline-block;
     padding: 0 0 0 25px;
-    background: url("https://patelgirish.github.io/test/wp-content/themes/ascent/includes/images/comment-count-icon.png") 0 3px no-repeat;
+    background: url("https://github.com/patelgirish/Test/blob/gh-pages/wp-content/themes/ascent/includes/images/comment-count-icon.png") 0 3px no-repeat;
     font-weight: 700;
     color: #FFF;
 }
