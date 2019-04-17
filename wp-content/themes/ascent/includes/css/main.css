@@ -606,6 +606,7 @@ nav.main-menu ul > li:hover > a, nav.main-menu ul > .current-menu-item > a {
 }
 .entry-title {
     font-weight: bold;
+	font-size: 28px;
 }
 body.page .page-header h1.entry-title {
     padding-bottom: 10px;
