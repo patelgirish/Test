@@ -362,14 +362,16 @@ a, a:link {}
 }
 .site-branding h1.site-title a {
     font-weight: bold;
+	font-family: 'Roboto';
 	font-size: 40px;
+	letter-spacing: 1.3px;
     color: #9ccc14;
 }
 .site-branding h1.site-title a:hover {
     color: #3A3C41;
 }
 .site-branding .site-description {
-    font-size: 12px;
+    font-size: 13px;
     margin: 6px 0 0 0;
 }
 .header-top {
