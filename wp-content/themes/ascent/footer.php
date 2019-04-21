@@ -23,9 +23,9 @@
         <div class="container">
             <div class="site-info">
                 <?php do_action( 'ascent_credits' ); ?>
-                <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'ascent' ); ?>" ><?php printf( __( '&copy; 2018 ascent. All rights reserved', 'ascent' ), 'WordPress' ); ?></a>
+                <a href="https://www.sternandwise.com/" title="<?php esc_attr_e( 'A Management Consulting Firm', 'S&W' ); ?>" ><?php printf( __( '&copy; 2019 S&W. All rights reserved', 'S&W' ), 'S&W' ); ?></a>
                 <span class="sep"> | </span>
-                <?php printf( __( '%1$s  ', 'ascent' ), 'Ascent by '); ?><a href="<?php echo esc_url( __( 'http://nettantra.com/', 'ascent' ) ); ?>" target="_blank"><?php printf( __( 'NetTantra', 'ascent' ), 'NetTantra' ); ?></a>
+                <?php printf( __( '%1$s  ', 'S&W' ), 'By'); ?><a href="<?php echo esc_url( __( 'https://www.sternandwise.com/', 'S&W' ) ); ?>" target="_blank"><?php printf( __( 'Stern & Wise Management Consulting', 'S&W' ), 'Stern & Wise' ); ?></a>
             </div><!-- close .site-info -->
         </div>
     </div>
