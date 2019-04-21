@@ -4,11 +4,10 @@
 
 .site-branding h1.site-title a {
   color: #9ccc14;
-
 }
 
 .site-description {
-  color: #052F6C;
+  color: #052f6c;
 }
 
 strong {
@@ -24,7 +23,7 @@ strong {
 }
 
 h1 a {
-  color: #052F6C;
+  color: #052f6c;
 }
 
 .nav>li>a {
@@ -36,7 +35,7 @@ li {
 }
 
 a {
-  color: #052F6C;
+  color: #052f6c;
 }
 
 .site-footer-inner.col-sm-12.clearfix {
@@ -57,4 +56,25 @@ a {
 
 #colophon .nav > li > a:hover {
   color: #fffff;
+}
+
+body.page .page-header h1.entry-title {
+  font-size: 30px;
+}
+
+p {
+  font-size: 16px;
+  padding: 10px;
+}
+
+h2 a:hover {
+  font-size: 30px;
+}
+
+h1 {
+  color: #052f6c;
+}
+
+h2 a {
+  color: #052f6c;
 }
