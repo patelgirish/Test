@@ -779,7 +779,7 @@ a:hover, a:focus {
 
 /*New CSS*/
 .navigation-trigger-wrapper {
-    font-weight: 700;
+	font-weight: 700;
     padding: 10px;
     border-bottom: 1px solid;
     width: 100%;
@@ -800,6 +800,7 @@ a:hover, a:focus {
 
 .navigation-trigger,
 .navigation-text {
+	color: #ffffff;
     display: inline-block;
     vertical-align: middle;
 }
