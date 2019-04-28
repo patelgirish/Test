@@ -779,7 +779,7 @@ a:hover, a:focus {
 
 /*New CSS*/
 .navigation-trigger-wrapper {
-	font-weight: 700;
+    font-weight: 700;
     padding: 10px;
     border-bottom: 1px solid;
     width: 100%;
@@ -800,7 +800,6 @@ a:hover, a:focus {
 
 .navigation-trigger,
 .navigation-text {
-	color: #ffffff;
     display: inline-block;
     vertical-align: middle;
 }
@@ -3186,14 +3185,14 @@ input[type="submit"]:focus {
 }
 
 .wp-block-quote:before {
-    background: #f5f5f5 url(https://patelgirish.github.io/Test/wp-content/themes/classic-blog/images/icon-quote-top.svg) no-repeat center;
+    background: #f5f5f5 url(images/icon-quote-top.svg) no-repeat center;
     top: 10px;
     left: 40px;
     color: #fff;
 }
 
 .wp-block-quote:after {
-    background: #f5f5f5 url(https://patelgirish.github.io/Test/wp-content/themes/classic-blog/images/icon-quote-down.svg) no-repeat center;
+    background: #f5f5f5 url(images/icon-quote-down.svg) no-repeat center;
     right: 40px;
     bottom: 0;
 }
@@ -3260,7 +3259,7 @@ a.scroll-up {
 
 .scroll-up:before {
     content: "";
-    background: url("https://patelgirish.github.io/Test/wp-content/themes/classic-blog/images/up-arrow.svg") no-repeat center;
+    background: url("images/up-arrow.svg") no-repeat center;
     display: block;
     width: 25px;
     height: 60px;
