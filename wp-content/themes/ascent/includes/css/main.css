@@ -738,6 +738,7 @@ body.page .page-header h1.entry-title {
 }
 #home-slider.video_type .bg-overlay {
     display: none;
+	
 }
 /* = Table Format
 ---------------------------------------------------------------------------------- */
@@ -927,7 +928,8 @@ article.post {
 }
 .sticky .entry-date {}
 .bypostauthor {}
-article.post .entry-content {
+article.post .entry-content	 {
+	display: block;
     padding-bottom: 10px;
 }
 .page-header .entry-title {
@@ -949,7 +951,8 @@ article.post .entry-content {
     margin-bottom: 10px;
 }
 .entry-content blockquote {
-    background: #e7f6f3;
+	display: block;
+	background: #e7f6f3;
     padding: 20px 20px 20px 30px;
     border-left: 5px solid #9ccc14;
     font-family: 'PT Sans', serif;
@@ -958,7 +961,8 @@ article.post .entry-content {
     line-height: 26px;
 }
 .entry-content blockquote p {
-    margin: 0;
+	display: block;
+	margin: 0;
     font-family: 'PT Sans', serif;
     font-style: italic;
     font-size: 16px;

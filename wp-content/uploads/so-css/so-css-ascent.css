@@ -78,3 +78,10 @@ h1 {
 h2 a {
   color: #052f6c;
 }
+
+p {
+    display: block;
+    margin-block-start: auto;
+    margin-block-end: auto;
+   
+}
