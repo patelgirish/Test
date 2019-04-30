@@ -375,21 +375,22 @@ a, a:link {}
 	margin: 6px 0 0 0;
 }
 .header-top {
-    background: #3A3C41;
+    background: #fff;
     min-height: 35px;
     border-top: 4px solid #9ccc14;
-    color: #FFF;
+    color: #0a4fb4;
     font-size: 13px;
+	font-weight: bold;
     padding: 8px 0;
 }
 .header-top a {
-    color: #FFF;
+    color: #0a4fb4;
 }
 .header-top a:hover {
     color: #9ccc14;
 }
 .mail-info .phone-info {
-    padding-right: 10px;
+	padding-right: 10px;
     display: inline-block;
 }
 ul.social-icons {

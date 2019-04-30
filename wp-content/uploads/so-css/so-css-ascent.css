@@ -1,13 +1,9 @@
-.header-top {
-  background-color: #0a4fb4;
-}
-
 .site-branding h1.site-title a {
-  color: #9ccc14;
+  color: #052f6c;
 }
 
 .site-description {
-  color: #052f6c;
+  color: #9ccc14;
 }
 
 strong {
@@ -77,11 +73,4 @@ h1 {
 
 h2 a {
   color: #052f6c;
-}
-
-p {
-    display: block;
-    margin-block-start: auto;
-    margin-block-end: auto;
-   
 }
