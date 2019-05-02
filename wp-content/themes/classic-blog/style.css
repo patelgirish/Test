@@ -2638,7 +2638,7 @@ object {
 
 .site-info .copyright-info a {
     color: #fff;
-	font-size: 15px; 
+	font-size: 13px; 
     text-transform: uppercase;
     letter-spacing: 1px;
     text-decoration: underline;
@@ -2725,7 +2725,7 @@ object {
 }
 
 .copyright-info {
-	font-size: 15px;
+	font-size: 13px;
     text-align: justify;
     display: table;
     width: 100%;
