@@ -1,5 +1,5 @@
 a {
-  color: #0000EE;
+  color: #0000ee;
 }
 
 .entry-date.published {
@@ -7,13 +7,18 @@ a {
 }
 
 a.url.fn.n {
-	color: #9ccc14;
+  color: #9ccc14;
 }
 
 a.category-tag {
-	color: #9ccc14;
+  color: #9ccc14;
 }
 
-cat-links.a, entry-content.p {
-color: #9ccc14;
+cat-links.a,
+entry-content.p {
+  color: #9ccc14;
+}
+
+h2 {
+  font-size: -5px;
 }
