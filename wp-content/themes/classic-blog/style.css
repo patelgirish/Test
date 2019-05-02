@@ -2262,8 +2262,8 @@ a:hover, a:focus {
 
 .home.blog #primary .site-main,
 body.archive #primary .site-main {
-    margin-left: -15px;
-    margin-right: -15px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .home.blog #primary .hentry,
@@ -2430,7 +2430,7 @@ body.archive #primary .page-header {
 
 .single .entry-title,
 .united-article .entry-title {
-    font-size: 38px;
+    font-size: 30px;
 }
 
 .header-slider .entry-title {
