@@ -2333,7 +2333,6 @@ body.archive #primary .page-header {
 
 .entry-meta,
 .entry-footer {
-    text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 1px;
 }
