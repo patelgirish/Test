@@ -573,6 +573,9 @@ a {
     outline: none;
 }
 
+a: link {
+	color: #0000ee;
+}
 a:visited {
     color: #00008b;
 }
