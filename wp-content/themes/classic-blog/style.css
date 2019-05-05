@@ -2639,7 +2639,6 @@ object {
 .site-info .copyright-info a {
     color: #fff;
 	font-size: 13px; 
-    text-transform: uppercase;
     letter-spacing: 1px;
     text-decoration: underline;
     padding: 0 5px;
