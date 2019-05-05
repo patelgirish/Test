@@ -2430,13 +2430,13 @@ body.archive #primary .page-header {
 
 .entry-title,
 .title-header {
-    font-size: 28px;
+    font-size: 26px;
     line-height: 1.2;
 }
 
 .single .entry-title,
 .united-article .entry-title {
-    font-size: 30px;
+    font-size: 26px;
 }
 
 .header-slider .entry-title {
@@ -3156,8 +3156,8 @@ input[type="submit"]:focus {
 
 .united-article {
     border-bottom: 1px solid #e2e2e2;
-    margin-bottom: 40px;
-    padding-bottom: 40px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 
 /*Gutenberg Fix*/
