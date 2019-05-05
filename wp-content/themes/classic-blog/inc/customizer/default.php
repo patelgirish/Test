@@ -47,7 +47,7 @@ function classic_blog_get_default_theme_options() {
 	$defaults['global_layout']            = 'no-sidebar';
 	$defaults['excerpt_length_global']    = 25;
 	$defaults['pagination_type']          = 'numeric';
-	$defaults['copyright_text']           = esc_html__('©2019. ALL RIGHTS RESERVED', 'classic-blog');
+	$defaults['copyright_text']           = esc_html__('©2019. All Rights Reserved', 'classic-blog');
 
 	/*font and color*/
 	$defaults['primary_color']     = '#57478f';

@@ -86,7 +86,7 @@
                                 <?php printf(esc_html__(' %1$s %2$s', ''), '', '<a href="http://www.wisepost.org/">Wisepost</a>');
                                 ?>
 								<span class="sep"> | </span>
-                                <?php printf(esc_html__(' %1$s %2$s', ''), '', '<a href="https://www.sternandwise.com/">Stern and Wise Management Consulting</a>');
+                                <?php printf(esc_html__(' %1$s %2$s', ''), '', '<a href="https://www.sternandwise.com/">Stern & Wise Management Consulting</a>');
                                 ?>
 
                             </div>
