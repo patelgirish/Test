@@ -2286,7 +2286,7 @@ body.archive #primary .page-header {
 }
 
 .hentry .entry-header {
-    padding-bottom: 20px;
+    padding-bottom: 0px;
     line-height: 1.1em;
     margin: 0 auto;
 }
@@ -2350,6 +2350,10 @@ body.archive #primary .page-header {
 .entry-footer .cat-links,
 .entry-footer .tags-links {
     font-weight: 700;
+}
+
+	
+	
 }
 
 .entry-footer .cat-links {
