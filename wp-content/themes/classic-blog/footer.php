@@ -79,7 +79,7 @@
                                 <?php
                                 $pb_copyright_text = classic_blog_get_option('copyright_text');
                                 if (!empty ($pb_copyright_text)) {
-                                    echo wp_kses_post(classic_blog_get_option('©2019. All Rights Reserved.'));
+                                    echo wp_kses_post(classic_blog_get_option('copyright_text'));
                                 }
                                 ?>
                                 <span class="sep"> | </span>
