@@ -2364,7 +2364,7 @@ body.archive #primary .page-header {
 }
 
 .single .entry-footer .cat-links,
-.single .entry-footer .tags-links {
+.single .entry-footer .tags-links {	
     width: 100%;
     display: block;
     margin: 10px auto;
