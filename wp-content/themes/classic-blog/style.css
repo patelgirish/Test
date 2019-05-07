@@ -281,6 +281,7 @@ textarea {
     line-height: 1.6;
 }
 
+
 h1, h2, h3, h4, h5, h6 {
     clear: both;
     font-family: 'Playfair Display', serif;
@@ -2354,12 +2355,11 @@ body.archive #primary .page-header {
 .entry-footer .tags-links {
     font-weight: 700;
 }
-
-	
 	
 }
 
 .entry-footer .cat-links {
+	
     padding-left: 0;
 }
 

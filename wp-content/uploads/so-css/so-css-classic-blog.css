@@ -2,18 +2,22 @@ a {
   color: #00008b;
 }
 
+a:cat-links {
+	color:#0062ff
+}
+
 .entry-date.published {
-  color: #9ccc14;
+  color: #0062ff;
 }
 
 a.url.fn.n {
   color: #9ccc14;
 }
 
-a.category-tag {
+entry-content.p {
   color: #9ccc14;
 }
 
-entry-content.p {
-  color: #9ccc14;
+p {
+  color: #000;
 }
