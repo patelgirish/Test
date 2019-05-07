@@ -277,8 +277,8 @@ optgroup,
 textarea {
     color: #3f3f3f;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 17px;
-    line-height: 1.6;
+    font-size: 16px;
+    line-height: 1.7;
 }
 
 
@@ -488,8 +488,8 @@ input, textarea, select {
     position: relative;
     display: inline-block;
     margin: 30px auto 0;
-    min-width: 280px;
-    padding: 14px 30px;
+    min-width: 180px;
+    padding: 10px 15px;
 
     color: #232323;
     font-size: 14px;
@@ -2266,8 +2266,8 @@ a:hover, a:focus {
 
 .home.blog #primary .site-main,
 body.archive #primary .site-main {
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 35px;
+    margin-right: 35px;
 }
 
 .home.blog #primary .hentry,
