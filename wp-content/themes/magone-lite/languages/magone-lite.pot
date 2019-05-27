@@ -1,0 +1,733 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MagOne Lite 1.6\n"
+"POT-Creation-Date: 2018-01-18 05:38+0700\n"
+"PO-Revision-Date: 2016-02-19 10:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "404"
+msgstr ""
+
+#: 404.php:6
+msgid "Back Home"
+msgstr ""
+
+#: attachment.php:17 attachment.php:18 includes/lib/lib-article.php:706
+#: page.php:24 page.php:25 single.php:23 single.php:24
+#, php-format
+msgid "%s 's Author avatar"
+msgstr ""
+
+#: attachment.php:112 page.php:60 single.php:126
+msgid "PAGES"
+msgstr ""
+
+#: attachment.php:131
+msgid "AUTHOR"
+msgstr ""
+
+#: comments.php:4
+msgid "COMMENTS"
+msgstr ""
+
+#: comments.php:27
+msgid "Require password to view comments"
+msgstr ""
+
+#: comments.php:43 comments.php:48
+msgid "comment-avatar"
+msgstr ""
+
+#: comments.php:74
+msgid "<span>Reply</span> <i class=\"fa fa-mail-forward\"></i>"
+msgstr ""
+
+#: comments.php:100
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:111
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:112
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:113
+msgid "Newer Comments"
+msgstr ""
+
+#: header-menu-toggle-button.php:4 header-menu-toggle-button.php:11
+msgid "MENU"
+msgstr ""
+
+#: header-search-toggle-button.php:3
+msgid "SEARCH"
+msgstr ""
+
+#: header-top-menu.php:6
+msgid "TOP MENU"
+msgstr ""
+
+#: includes/lib/lib-article.php:7
+msgid "Title"
+msgstr ""
+
+#: includes/lib/lib-article.php:8
+msgid "Title of Block"
+msgstr ""
+
+#: includes/lib/lib-article.php:11
+msgid "Title URL"
+msgstr ""
+
+#: includes/lib/lib-article.php:12
+msgid "URL for Title of Block. Leave blank to use default"
+msgstr ""
+
+#: includes/lib/lib-article.php:16
+msgid "Title FontAwesome Icon Code"
+msgstr ""
+
+#: includes/lib/lib-article.php:18
+#, php-format
+msgid ""
+"Example: fa-home. <a href=\"%s\" target=\"_blank\">Check Full List of Icon "
+"Codes Here</a>"
+msgstr ""
+
+#: includes/lib/lib-article.php:28
+msgid "Title Background Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:29
+msgid "Leave blank to use transparent"
+msgstr ""
+
+#: includes/lib/lib-article.php:33
+msgid "Title Text Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:34
+msgid "Leave blank to use default color"
+msgstr ""
+
+#: includes/lib/lib-article.php:38
+msgid "Title Border Bottom Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:39
+msgid "Leave blank to to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:43 includes/setup/setup-customizer.php:30
+msgid "Main Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:44
+msgid "Select the main color of box"
+msgstr ""
+
+#: includes/lib/lib-article.php:49
+msgid "Thumbnail Background Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:50
+msgid "Thumbnail background color"
+msgstr ""
+
+#: includes/lib/lib-article.php:55
+msgid "Connect as Tabs"
+msgstr ""
+
+#: includes/lib/lib-article.php:56
+msgid ""
+"All consecutive blocks which were enabled this option will be grouped into a "
+"tab"
+msgstr ""
+
+#: includes/lib/lib-article.php:61
+msgid "Count"
+msgstr ""
+
+#: includes/lib/lib-article.php:62
+msgid "Number of posts will be loaded"
+msgstr ""
+
+#: includes/lib/lib-article.php:67
+msgid "Content Orderby"
+msgstr ""
+
+#: includes/lib/lib-article.php:70
+msgid "Latest"
+msgstr ""
+
+#: includes/lib/lib-article.php:71
+msgid "Random"
+msgstr ""
+
+#: includes/lib/lib-article.php:72
+msgid "Most Commented"
+msgstr ""
+
+#: includes/lib/lib-article.php:73
+msgid "Popular (Most Viewed)"
+msgstr ""
+
+#: includes/lib/lib-article.php:78
+msgid "Date Range"
+msgstr ""
+
+#: includes/lib/lib-article.php:79
+msgid "Date range limit to load post from base on publish date"
+msgstr ""
+
+#: includes/lib/lib-article.php:82
+msgid "All Time"
+msgstr ""
+
+#: includes/lib/lib-article.php:83
+msgid "Last 365 days"
+msgstr ""
+
+#: includes/lib/lib-article.php:84
+msgid "Last 30 days"
+msgstr ""
+
+#: includes/lib/lib-article.php:85
+msgid "Last 7 days"
+msgstr ""
+
+#: includes/lib/lib-article.php:90
+msgid "Show View All"
+msgstr ""
+
+#: includes/lib/lib-article.php:91
+msgid "Show View All button. Uncheck to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:96
+msgid "Item Title"
+msgstr ""
+
+#: includes/lib/lib-article.php:99
+msgid "In Thumbnail"
+msgstr ""
+
+#: includes/lib/lib-article.php:100
+msgid "Out of Thumbnail"
+msgstr ""
+
+#: includes/lib/lib-article.php:101
+msgid "Not Display"
+msgstr ""
+
+#: includes/lib/lib-article.php:106
+msgid "Load from Categories"
+msgstr ""
+
+#: includes/lib/lib-article.php:107
+msgid ""
+"The categories that will be loaded posts from. Leave blank to load from all"
+msgstr ""
+
+#: includes/lib/lib-article.php:111
+msgid "Category Scenario"
+msgstr ""
+
+#: includes/lib/lib-article.php:112
+msgid "If you choose many categories to load, what relation between them?"
+msgstr ""
+
+#: includes/lib/lib-article.php:117
+msgid "Combination (posts has one OR more above categories)"
+msgstr ""
+
+#: includes/lib/lib-article.php:118
+msgid "Intersection (posts has ALL above categories)"
+msgstr ""
+
+#: includes/lib/lib-article.php:122
+msgid "Load from Authors"
+msgstr ""
+
+#: includes/lib/lib-article.php:123
+msgid ""
+"The authors that will be loaded posts from. Leave blank to load from all"
+msgstr ""
+
+#: includes/lib/lib-article.php:127
+msgid "Exclude Authors"
+msgstr ""
+
+#: includes/lib/lib-article.php:128
+msgid ""
+"The authors that will not be loaded posts from. Leave blank to load from all"
+msgstr ""
+
+#: includes/lib/lib-article.php:132
+msgid "Load from Tags"
+msgstr ""
+
+#: includes/lib/lib-article.php:133
+msgid "The tags that will be loaded posts from. Leave blank to load from all"
+msgstr ""
+
+#: includes/lib/lib-article.php:137
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: includes/lib/lib-article.php:138
+msgid "Do not move sticky posts to the start of the set"
+msgstr ""
+
+#: includes/lib/lib-article.php:143
+msgid "Exclude Loaded Posts"
+msgstr ""
+
+#: includes/lib/lib-article.php:144
+msgid "Do not get the loaded posts from previous blocks"
+msgstr ""
+
+#: includes/lib/lib-article.php:149
+msgid "Show Comment"
+msgstr ""
+
+#: includes/lib/lib-article.php:150
+msgid "Show comment number. Uncheck to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:155
+msgid "Show Read More"
+msgstr ""
+
+#: includes/lib/lib-article.php:156
+msgid "Show readmore link. Uncheck to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:161
+msgid "Show Author"
+msgstr ""
+
+#: includes/lib/lib-article.php:162
+msgid "Show / hide author name in item detail"
+msgstr ""
+
+#: includes/lib/lib-article.php:166
+msgid "Not show"
+msgstr ""
+
+#: includes/lib/lib-article.php:167
+msgid "Show name only"
+msgstr ""
+
+#: includes/lib/lib-article.php:168
+msgid "Show name with icon"
+msgstr ""
+
+#: includes/lib/lib-article.php:169
+msgid "Show name with avatar"
+msgstr ""
+
+#: includes/lib/lib-article.php:173
+msgid "Show Date"
+msgstr ""
+
+#: includes/lib/lib-article.php:174
+msgid ""
+"Show / hide date / time in item detail. The format will follow the site date "
+"time format"
+msgstr ""
+
+#: includes/lib/lib-article.php:178
+msgid "Not Show"
+msgstr ""
+
+#: includes/lib/lib-article.php:179
+msgid "Date and Time"
+msgstr ""
+
+#: includes/lib/lib-article.php:180
+msgid "Only Date"
+msgstr ""
+
+#: includes/lib/lib-article.php:181
+msgid "Only Time"
+msgstr ""
+
+#: includes/lib/lib-article.php:182
+msgid "Short Date Time"
+msgstr ""
+
+#: includes/lib/lib-article.php:183
+msgid "Pretty Date Time"
+msgstr ""
+
+#: includes/lib/lib-article.php:187
+msgid "Meta Item Order"
+msgstr ""
+
+#: includes/lib/lib-article.php:188
+msgid "Pick order for meta items: comment, date, author"
+msgstr ""
+
+#: includes/lib/lib-article.php:192
+msgid "Comment - Date - Author"
+msgstr ""
+
+#: includes/lib/lib-article.php:193
+msgid "Comment - Author - Date"
+msgstr ""
+
+#: includes/lib/lib-article.php:194
+msgid "Author - Comment - Date"
+msgstr ""
+
+#: includes/lib/lib-article.php:195
+msgid "Author - Date - Comment"
+msgstr ""
+
+#: includes/lib/lib-article.php:196
+msgid "Date - Author - Comment"
+msgstr ""
+
+#: includes/lib/lib-article.php:197
+msgid "Date - Comment - Author"
+msgstr ""
+
+#: includes/lib/lib-article.php:202
+msgid "Show Format Icon"
+msgstr ""
+
+#: includes/lib/lib-article.php:203
+msgid "Show format icon when mouse hover an item of box"
+msgstr ""
+
+#: includes/lib/lib-article.php:208
+msgid "Number Categories"
+msgstr ""
+
+#: includes/lib/lib-article.php:209
+msgid "Number categories name will be displayed in each item. Set to 0 to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:215
+msgid "Snippet Length"
+msgstr ""
+
+#: includes/lib/lib-article.php:216
+msgid "Snippet / excerpt length. Input 0 to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:222
+msgid "Thumbnail Height"
+msgstr ""
+
+#: includes/lib/lib-article.php:223
+msgid ""
+"Thumbnail image height. Set to 0 and the box will show image as natural "
+"height without cropping"
+msgstr ""
+
+#: includes/lib/lib-article.php:229
+msgid "Pagination"
+msgstr ""
+
+#: includes/lib/lib-article.php:232
+msgid "None"
+msgstr ""
+
+#: includes/lib/lib-article.php:233
+msgid "Number"
+msgstr ""
+
+#: includes/lib/lib-article.php:234
+msgid "Loadmore"
+msgstr ""
+
+#: includes/lib/lib-article.php:235
+msgid "Next / Previous"
+msgstr ""
+
+#: includes/lib/lib-article.php:242
+msgid "Show Rainbow Thumbnail Background Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:243
+msgid ""
+"Regardless the Thumbnail Background Color option, just using random colors "
+"instead"
+msgstr ""
+
+#: includes/lib/lib-article.php:257
+msgid "Show Navigate Buttons"
+msgstr ""
+
+#: includes/lib/lib-article.php:258
+msgid "The arrow buttons which allow user navigate slides"
+msgstr ""
+
+#: includes/lib/lib-article.php:263
+msgid "Show Dot Buttons"
+msgstr ""
+
+#: includes/lib/lib-article.php:264
+msgid "The dot buttons which allow user navigate slides"
+msgstr ""
+
+#: includes/lib/lib-article.php:269
+msgid "Speed"
+msgstr ""
+
+#: includes/lib/lib-article.php:270
+msgid "The animate speed in miliseconds"
+msgstr ""
+
+#: includes/lib/lib-article.php:281
+msgid ""
+"Thumbnail Image Height. If the image not fit in thumbnail window, it will be "
+"cropped"
+msgstr ""
+
+#: includes/lib/lib-article.php:286
+msgid "Number Column"
+msgstr ""
+
+#: includes/lib/lib-article.php:287
+msgid "Number column of carousel"
+msgstr ""
+
+#: includes/lib/lib-article.php:325 includes/lib/lib-article.php:334
+msgid "No Spacing"
+msgstr ""
+
+#: includes/lib/lib-article.php:326 includes/lib/lib-article.php:335
+msgid "Disable Spacing Between Items"
+msgstr ""
+
+#: includes/lib/lib-article.php:360
+msgid "Show Index"
+msgstr ""
+
+#: includes/lib/lib-article.php:361
+msgid "Show index number before each item"
+msgstr ""
+
+#: includes/lib/lib-article.php:740 single.php:61 singular-meta-item-date.php:9
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/lib/lib-article.php:790
+msgid "Read More"
+msgstr ""
+
+#: includes/lib/lib-article.php:1364
+msgid "Not found any post"
+msgstr ""
+
+#: includes/lib/lib-article.php:1463 includes/lib/lib-article.php:1476
+msgid "VIEW ALL"
+msgstr ""
+
+#: includes/lib/lib-next-prev.php:8
+msgid "Newer Post"
+msgstr ""
+
+#: includes/lib/lib-next-prev.php:15
+msgid "Older Post"
+msgstr ""
+
+#: includes/lib/lib-next-prev.php:30
+msgid "&larr; Previous Media"
+msgstr ""
+
+#: includes/lib/lib-next-prev.php:34
+msgid "Next Media &rarr;"
+msgstr ""
+
+#: includes/setup/setup-basic.php:114
+msgid "Not Found Any Posts"
+msgstr ""
+
+#: includes/setup/setup-basic.php:115
+msgid "Tab"
+msgstr ""
+
+#: includes/setup/setup-basic.php:116
+msgid "Copy All Code"
+msgstr ""
+
+#: includes/setup/setup-basic.php:117
+msgid "Select All Code"
+msgstr ""
+
+#: includes/setup/setup-basic.php:118
+msgid "All codes were copied to your clipboard"
+msgstr ""
+
+#: includes/setup/setup-basic.php:119
+msgid ""
+"Can not copy the codes / texts, please press [CTRL]+[C] (or CMD+C with Mac) "
+"to copy"
+msgstr ""
+
+#: includes/setup/setup-basic.php:120
+#, php-format
+msgid "<span class=\"value\">%1$s</span> / %2$s POSTS"
+msgstr ""
+
+#: includes/setup/setup-basic.php:121
+msgid "LOAD MORE"
+msgstr ""
+
+#: includes/setup/setup-basic.php:122
+msgid "OLDER"
+msgstr ""
+
+#: includes/setup/setup-basic.php:123
+msgid "NEWER"
+msgstr ""
+
+#: includes/setup/setup-basic.php:124
+msgid "Hover and click above bar to rate"
+msgstr ""
+
+#: includes/setup/setup-basic.php:125
+msgid "Hover and click above stars to rate"
+msgstr ""
+
+#: includes/setup/setup-basic.php:126
+#, php-format
+msgid "You rated %s"
+msgstr ""
+
+#: includes/setup/setup-basic.php:127
+#, php-format
+msgid "You will rate %s"
+msgstr ""
+
+#: includes/setup/setup-basic.php:128
+msgid "Submitting ..."
+msgstr ""
+
+#: includes/setup/setup-basic.php:129
+msgid "Your browser not support user rating"
+msgstr ""
+
+#: includes/setup/setup-basic.php:130
+msgid "Server not response your rating"
+msgstr ""
+
+#: includes/setup/setup-basic.php:131
+msgid "Server not accept your rating"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:17
+msgid "Theme Options"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:31
+msgid "Main color apply across the site"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:47
+msgid "Wrapper Background Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:48
+msgid "Backgroud color of the outer wraps around the content columns"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:64
+msgid "Slider Category"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:65
+msgid ""
+"Input the category / tag ID or slug to show posts for slider. Theme will "
+"priority search in tag first. Input \"recent\" to show recent posts"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:81
+msgid "Default Slider Thumbnail"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:82
+msgid "Image SRC which will be used in slider if a post has no image"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:98
+msgid "Disable Post Excerpt"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:99
+msgid "Disable post excerpt on top of post"
+msgstr ""
+
+#: includes/setup/setup-menus.php:4
+msgid "Main Menu"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:4
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:6
+msgid "The section on right side. Usually use to add common widgets"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:13
+msgid "Header Wide"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:15
+msgid "The section under the main menu. Usually use to add wide ads."
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:24
+msgid "Footer Column 1"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:26
+msgid "The first column of footer"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:33
+msgid "Footer Column 2"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:35
+msgid "The second column of footer"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:42
+msgid "Footer Column 3"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:44
+msgid "The third column of footer"
+msgstr ""
+
+#: index.php:8
+msgid "Latest Posts"
+msgstr ""
+
+#: searchform.php:2 searchform.php:3
+msgid "Type something and Enter"
+msgstr ""

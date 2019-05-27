@@ -23,7 +23,7 @@ if (!function_exists('classic_blog_setup')):
          * If you're building a theme based on Classic Blog, use a find and replace
          * to change 'classic-blog' to the name of your theme in all the template files.
          */
-        load_theme_textdomain('classic-blog');
+        load_theme_textdomain('classic-blog', get_template_directory().'/languages');
 
         // Add default posts and comments RSS feed links to head.
         add_theme_support('automatic-feed-links');

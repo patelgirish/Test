@@ -3,8 +3,8 @@
 Contributors: unitedtheme
 
 Requires at least: 4.0
-Tested up to: 5.0.3
-Stable tag: 1.0.1
+Tested up to: 5.2
+Stable tag: 1.0.2
 License: GNU General Public License v3 or later
 License URI: LICENSE
 
@@ -62,6 +62,9 @@ https://pixabay.com/en/people-adult-woman-portrait-3057299/
 https://pixabay.com/en/hiker-hiking-sunrise-outdoor-sky-1082297/
 
 == Changelog ==
+
+1.0.2 - May 17 2019
+* Update language file
 
 1.0.1 - Feb 14 2019
 * Update fixing WordPress compatible issues

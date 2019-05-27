@@ -4,7 +4,7 @@ Theme URI: https://unitedtheme.com/themes/classic-blog/
 Author: UnitedTheme
 Author URI: http://unitedtheme.com/
 Description: Classic Blog is a Clean, Minimal and Responsive WordPress Theme created for professional Blogger and ideal for those aiming to become one. It follows the trendy design with a combination of elegance. The theme was designed to be used easily of the beginner WordPress users without code knowledge. It also comes with many options and features that can be added and customized easily, giving you lots of freedom in creating your own unique site. Classic Blog covers everything you need to turn blogging into a full-time job. View Demo: https://unitedtheme.com/live-preview/classic-blog/
-Version: 1.0.1
+Version: 1.0.2
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: classic-blog
@@ -275,12 +275,11 @@ input,
 select,
 optgroup,
 textarea {
-    color: #3f3f3f;
+    color: #596172;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 16px;
-    line-height: 1.7;
+    font-size: 17px;
+    line-height: 1.6;
 }
-
 
 h1, h2, h3, h4, h5, h6 {
     clear: both;
@@ -488,8 +487,8 @@ input, textarea, select {
     position: relative;
     display: inline-block;
     margin: 30px auto 0;
-    min-width: 180px;
-    padding: 10px 15px;
+    min-width: 280px;
+    padding: 14px 30px;
 
     color: #232323;
     font-size: 14px;
@@ -566,7 +565,7 @@ input, textarea, select {
 ## Links
 --------------------------------------------------------------*/
 a {
-    color: #9ccc14;
+    color: #232323;
     text-decoration: none;
     transition: all .3s ease;
     -moz-transition: all .3s ease;
@@ -574,11 +573,8 @@ a {
     outline: none;
 }
 
-a: link {
-	color: #0000ee;
-}
 a:visited {
-    color: #00008b;
+    color: #232323;
 }
 
 a:hover, a:focus, a:active {
@@ -2127,20 +2123,20 @@ a:hover, a:focus {
 }
 
 .site-title {
-    font: 700 4.5em/125% 'Playfair Display', serif;
-    letter-spacing: -.01em;
+    font: 900 6.5em/125% 'Playfair Display', serif;
+    letter-spacing: -.012em;
     text-transform: uppercase;
 }
 
 .site-description {
     font-weight: 700;
-	letter-spacing: 3.5px;
+    letter-spacing: 4px;
     text-transform: uppercase;
     position: relative;
 }
 
 .site-description span {
-    background: #ffffff;
+    background: #fff;
     padding: 0 20px;
 }
 
@@ -2166,7 +2162,7 @@ a:hover, a:focus {
 }
 
 .site-description {
-    color: #87b309;
+    color: #000;
 }
 
 #masthead.data-attrbg .site-description {
@@ -2266,8 +2262,8 @@ a:hover, a:focus {
 
 .home.blog #primary .site-main,
 body.archive #primary .site-main {
-    margin-left: 35px;
-    margin-right: 35px;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
 .home.blog #primary .hentry,
@@ -2290,7 +2286,7 @@ body.archive #primary .page-header {
 }
 
 .hentry .entry-header {
-    padding-bottom: 0px;
+    padding-bottom: 20px;
     line-height: 1.1em;
     margin: 0 auto;
 }
@@ -2337,6 +2333,7 @@ body.archive #primary .page-header {
 
 .entry-meta,
 .entry-footer {
+    text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 1px;
 }
@@ -2355,16 +2352,14 @@ body.archive #primary .page-header {
 .entry-footer .tags-links {
     font-weight: 700;
 }
-	
-}
 
 .entry-footer .cat-links {
-	
     padding-left: 0;
+    padding-right: 15px;
 }
 
 .single .entry-footer .cat-links,
-.single .entry-footer .tags-links {	
+.single .entry-footer .tags-links {
     width: 100%;
     display: block;
     margin: 10px auto;
@@ -2430,13 +2425,13 @@ body.archive #primary .page-header {
 
 .entry-title,
 .title-header {
-    font-size: 26px;
+    font-size: 28px;
     line-height: 1.2;
 }
 
 .single .entry-title,
 .united-article .entry-title {
-    font-size: 26px;
+    font-size: 38px;
 }
 
 .header-slider .entry-title {
@@ -2644,7 +2639,7 @@ object {
 
 .site-info .copyright-info a {
     color: #fff;
-	font-size: 13px; 
+    text-transform: uppercase;
     letter-spacing: 1px;
     text-decoration: underline;
     padding: 0 5px;
@@ -2730,8 +2725,7 @@ object {
 }
 
 .copyright-info {
-	font-size: 13px;
-    text-align: justify;
+    text-align: right;
     display: table;
     width: 100%;
     height: 100%;
@@ -2963,7 +2957,7 @@ input[type="submit"]:focus {
     }
 
     .slides-title {
-        font-size: 22px;
+        font-size: 28px;
     }
 }
 
@@ -3156,8 +3150,8 @@ input[type="submit"]:focus {
 
 .united-article {
     border-bottom: 1px solid #e2e2e2;
-    margin-bottom: 10px;
-    padding-bottom: 10px;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
 }
 
 /*Gutenberg Fix*/
@@ -3277,4 +3271,10 @@ a.scroll-up {
 
 .scroll-up span {
     display: none;
+}
+
+.photo-gallery-section h2 {
+    text-align: center;
+    font-size: 34px;
+    font-style: italic;
 }

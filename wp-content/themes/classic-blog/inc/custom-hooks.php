@@ -228,10 +228,12 @@ if (!function_exists('classic_blog_featured_blog')):
         ); ?>
         <section class="united-block photo-gallery-section">
             <div class="wrapper">
-            <div class="row">
                 <h2>
                     <?php echo esc_html(classic_blog_get_option('featured_blog_title')); ?>
                 </h2>
+            </div>
+            <div class="wrapper">
+            <div class="row">
             <?php $classic_blog_featured_blog_query = new WP_Query($classic_blog_featured_blog_args);
             if ($classic_blog_featured_blog_query->have_posts()) :
                 while ($classic_blog_featured_blog_query->have_posts()) : $classic_blog_featured_blog_query->the_post();
@@ -247,7 +249,7 @@ if (!function_exists('classic_blog_featured_blog')):
                     ?>
                     <div class="col col-three-1">
                         <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-                            <div class="photo-grid">
+                            <div class="photo-grid" data-mh="featured-article">
                                 <div class="photo-wrapper zoom-gallery">
                                     <a href="<?php echo esc_url($large_image); ?>" class="zoom-image">
                                         <?php
