@@ -83,7 +83,7 @@
                                 }
                                 ?>
                                 <span class="sep"> | </span>
-                                <?php printf(esc_html__('Theme: %1$s by %2$s.', 'classic-blog'), 'Classic Blog', '<a href="http://unitedtheme.com/">Unitedtheme</a>');
+                                <?php printf(esc_html__('Wisepost %1$s by %2$s', 'classic-blog'), '', '<a href="https://www.sternandwise.com/">Stern & Wise Management Consulting</a>');
                                 ?>
                             </div>
 						</div>

@@ -45,7 +45,7 @@ function classic_blog_get_default_theme_options() {
 	$defaults['enable_preloader']    = 1;
 	$defaults['read_more_button_text']    = esc_html__('Continue Reading', 'classic-blog');
 	$defaults['global_layout']            = 'no-sidebar';
-	$defaults['excerpt_length_global']    = 25;
+	$defaults['excerpt_length_global']    = 35;
 	$defaults['pagination_type']          = 'numeric';
 	$defaults['copyright_text']           = esc_html__('Copyright &copy; All rights reserved.', 'classic-blog');
 

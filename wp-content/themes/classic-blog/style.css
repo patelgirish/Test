@@ -294,6 +294,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .font-2 {
+	color: #00008b;
     font-family: 'Playfair Display', serif;
 }
 
@@ -574,7 +575,7 @@ a {
 }
 
 a:visited {
-    color: #232323;
+    color: #00008b;
 }
 
 a:hover, a:focus, a:active {
@@ -1925,8 +1926,8 @@ a:hover, a:focus {
 
 .wrapper,
 .site-content {
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 75px;
+    padding-left: 75px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -2123,8 +2124,8 @@ a:hover, a:focus {
 }
 
 .site-title {
-    font: 900 6.5em/125% 'Playfair Display', serif;
-    letter-spacing: -.012em;
+    font: 900 4.5em/125% 'Playfair Display', serif;
+	letter-spacing: .0em;
     text-transform: uppercase;
 }
 
@@ -2162,7 +2163,7 @@ a:hover, a:focus {
 }
 
 .site-description {
-    color: #000;
+    color: #9ccc14;
 }
 
 #masthead.data-attrbg .site-description {
@@ -2425,13 +2426,13 @@ body.archive #primary .page-header {
 
 .entry-title,
 .title-header {
-    font-size: 28px;
+    font-size: 20px;
     line-height: 1.2;
 }
 
 .single .entry-title,
 .united-article .entry-title {
-    font-size: 38px;
+    font-size: 28px;
 }
 
 .header-slider .entry-title {
@@ -2638,10 +2639,11 @@ object {
 }
 
 .site-info .copyright-info a {
+	font-size: 14px;
     color: #fff;
-    text-transform: uppercase;
+    'text-transform: uppercase;
     letter-spacing: 1px;
-    text-decoration: underline;
+    'text-decoration: underline;
     padding: 0 5px;
 }
 
@@ -2732,6 +2734,7 @@ object {
 }
 
 .copyright-info-details {
+	font-size: 14px;
     display: table-cell;
     vertical-align: middle;
 }
@@ -3150,8 +3153,8 @@ input[type="submit"]:focus {
 
 .united-article {
     border-bottom: 1px solid #e2e2e2;
-    margin-bottom: 40px;
-    padding-bottom: 40px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 /*Gutenberg Fix*/

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
@@ -11,12 +11,11 @@
 	<atom:link href="https://patelgirish.github.io/Test/2019/04/02/supreme-court-rejected-rbi-circular-on-debt-resolution/feed/" rel="self" type="application/rss+xml" />
 	<link>https://patelgirish.github.io/Test/2019/04/02/supreme-court-rejected-rbi-circular-on-debt-resolution/</link>
 	<description>Policy and Regulatory Analysis</description>
-	<lastBuildDate>
-	Tue, 07 May 2019 18:47:13 +0000	</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2019 17:42:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>
