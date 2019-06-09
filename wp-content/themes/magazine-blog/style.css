@@ -1,0 +1,54 @@
+/*
+Theme Name: Magazine Blog
+Template: magazine-newspaper
+Theme URI: https://thebootstrapthemes.com/downloads/magazine-blog/
+Author: thebootstrapthemes
+Author URI: http://thebootstrapthemes.com
+Description: Magazine Blog is a child theme of Magazine Newspaper WordPress Theme. This theme is build for newspaper, media, magazine related project. This theme is very lightweight and easy to use. This is one of  the best WordPress theme designed for newspaper, news portal, news website, magazine, blog, bloggers, photographers, personal portfolio, travel bloggers, small medium and large scale businesses, corporates, lawyers, bloggers, restaurants, weddings, colleges, universities, hotels, churches, salons, fitness, resorts, ecommerce, businesses, creative freelancers, professionals etc. and also supports woocommerce. 
+Version: 1.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: magazine-blog
+Tags: right-sidebar, portfolio, news, theme-options, featured-images, rtl-language-support, grid-layout, editor-style, custom-header, threaded-comments, custom-background, custom-colors, blog, footer-widgets, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+magazine-blog is based on Underscores http://underscores.me/, (C) 2012-2015 thebootstrapthemes.
+magazine-blog is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+
+
+body {
+    font: 400 16px/22px PT Serif;
+    color: #333;
+}
+
+.banner-news .banner-news-list:nth-child(1),.banner-news .banner-news-list{width: 33.33333%;padding: 0;}
+.banner-news .banner-news-list:nth-child(1) img,.banner-news .banner-news-list img{height: auto;}
+
+.pri-color{color: #ed0000;}
+.pri-bg-color{background: #ed0000;}
+h4.news-title:after{background: #ed0000;}
+h2.news-heading {border-color: #ed0000;}
+h3.widget-title{border-color: #ed0000;}
+h3.widget-title:after{background: #ed0000;}
+.jetpack_subscription_widget {background: #ed0000;}
+.banner-news .banner-news-caption a.news-category:visited{color:#ed0000;}
+.banner-news .banner-news-caption a:hover{color: #fff;}
+
+.sec-color{color: #010d21;}
+.sec-bg-color{background: #010d21;}
+a, a:visited {color: #010d21;}
+h2.news-heading {color: #010d21;}
+h4.news-title a:hover{color: #010d21;}
+h3.widget-title{color: #010d21;}
+.search-submit{background: #010d21;}
+
+section.logo h1{font-size: 3em;margin-bottom: 15px;}
+section.logo a:hover{text-decoration: none;opacity: 0.8;}
+
+ @media (max-width: 767px) {
+ 	.banner-news .banner-news-list:nth-child(1),.banner-news .banner-news-list{width:100%;}
+ }
