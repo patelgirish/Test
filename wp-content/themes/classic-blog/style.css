@@ -1534,6 +1534,7 @@ a:hover, a:focus {
 .comment-form label {
     width: 5em;
     display: inline-block;
+	word-wrap: normal !important;
 }
 
 .comment-form textarea,
