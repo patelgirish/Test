@@ -2203,11 +2203,11 @@ a:hover, a:focus {
     position: relative;
 }
 
-#mainslider .slick-slide {
-    background-color: #000;
-    height: 520px;
-    position: relative;
-    overflow: hidden;
+/* #mainslider .slick-slide { */
+    /* background-color: #000; */
+    /* height: 300px; */
+    /* position: relative; */
+    /* overflow: hidden; */
 }
 
 @media only screen and (min-width: 1600px) {
@@ -2786,21 +2786,21 @@ object {
     position: relative;
 }
 
-.slidernav .prev,
-.slidernav .next {
-    border: 2px solid #fff;
-    border-radius: 100%;
-    color: #fff;
-    width: 55px;
-    height: 55px;
-    line-height: 55px;
-    display: block;
-    float: left;
-    margin: 0 15px;
-    background-repeat: no-repeat;
-    cursor: pointer;
-    padding: 10px;
-}
+/* .slidernav .prev, */
+/* .slidernav .next { */
+    /* border: 2px solid #fff; */
+    /* border-radius: 100%; */
+    /* color: #fff; */
+    /* width: 55px; */
+    /* height: 55px; */
+    /* line-height: 55px; */
+    /* display: block; */
+    /* float: left; */
+    /* margin: 0 15px; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+    /* padding: 10px; */
+/* } */
 
 .slide-caption {
     background: rgba(140, 140, 140, 0.34);
